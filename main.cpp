@@ -1,3 +1,5 @@
+// Copyright 2021 Mukaev Rinat <rinamuka4@gmail.com>
+
 #include <boost/asio/connect.hpp>
 #include <boost/asio/ip/tcp.hpp>
 #include <boost/beast/core.hpp>
